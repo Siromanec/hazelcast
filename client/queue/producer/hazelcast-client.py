@@ -23,18 +23,3 @@ for i in range(100):
 hqueue.offer(poison_pill)
 print("capacity: {}".format(hqueue.remaining_capacity()))
 client.shutdown()
-# from time import sleep
-# niter = 1000
-# total_time = 20
-# sleep_time = total_time/niter
-#
-# for k in range(niter):
-#     sleep(sleep_time)
-#     if k % 100 == 0:
-#         print("at: {}".format(k))
-#     try:
-#         hqueue.put_if_absent(str(k), k)
-#     except hazelcast.errors.TargetDisconnectedError:
-#         print("disconnected at: {}".format(k))
-#
-# print("finished")
