@@ -1,0 +1,5 @@
+services:
+  .client:
+    environment:
+      - MC_DEFAULT_CLUSTER=dev
+      - PYTHONUNBUFFERED=1

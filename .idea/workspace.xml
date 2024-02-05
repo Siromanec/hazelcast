@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c5f3215-a8d7-4ed8-b935-9e3871b57513" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/blocking/compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/blocking/hazelcast-client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/blocking/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/blocking/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/common-extend.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/common-include.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/death/compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/death/hazelcast-client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/death/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/death/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/queue/compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/queue/consumer/hazelcast-client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/queue/consumer/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/queue/hazelcast.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/queue/producer/hazelcast-client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/queue/producer/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compose-death.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hazelcast.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kill.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2bryJ7diBp0dzUQsXpiQCgkqVUY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.blocking/compose.yaml: Compose Deployment.executor": "Run",
+    "Docker.hazelcast.executor": "Run",
+    "Python.hazelcast-client.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ADMIN/edu/sem6/apz/hazelcast/client/blocking/compose.yaml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\edu\sem6\apz\hazelcast\client\queue" />
+      <recent name="C:\Users\ADMIN\edu\sem6\apz\hazelcast\client\death" />
+      <recent name="C:\Users\ADMIN\edu\sem6\apz\hazelcast\client\queue\producer" />
+      <recent name="C:\Users\ADMIN\edu\sem6\apz\hazelcast\client\queue\consumer" />
+      <recent name="C:\Users\ADMIN\edu\sem6\apz\hazelcast\client\blocking" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\edu\sem6\apz\hazelcast\client" />
+      <recent name="C:\Users\ADMIN\edu\sem6\apz\hazelcast\client\queue" />
+      <recent name="C:\Users\ADMIN\edu\sem6\apz\hazelcast\client\death" />
+      <recent name="C:\Users\ADMIN\edu\sem6\apz\hazelcast\client\blocking" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.blocking">
+    <configuration name="hazelcast-client" type="PythonConfigurationType" factoryName="Python">
+      <module name="hazelcast" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ADMIN\edu\sem6\apz\hazelcast\client\blocking\hazelcast-client.py" />
+      <option name="PARAMETERS" value="-c dev" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="containerName" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="blocking" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="envFilePath" value="" />
+          <option name="sourceFilePath" value="client/blocking/compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="blocking/compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="envFilePath" value="" />
+          <option name="sourceFilePath" value="client/blocking/compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="hazelcast" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="envFilePath" value="" />
+          <option name="commandLineOptions" value="--build" />
+          <option name="sourceFilePath" value="compose.yaml" />
+          <upScaledServices>
+            <entry key="hazelcast" value="3" />
+            <entry key="client" value="3" />
+          </upScaledServices>
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.hazelcast" />
+      <item itemvalue="Docker.blocking" />
+      <item itemvalue="Docker.blocking/compose.yaml: Compose Deployment" />
+      <item itemvalue="Docker.Dockerfile" />
+      <item itemvalue="Python.hazelcast-client" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.blocking/compose.yaml: Compose Deployment" />
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c5f3215-a8d7-4ed8-b935-9e3871b57513" name="Changes" comment="" />
+      <created>1706987418062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706987418062</updated>
+      <workItem from="1706987419655" duration="2439000" />
+      <workItem from="1706991115228" duration="334000" />
+      <workItem from="1706992455471" duration="17971000" />
+      <workItem from="1707119311436" duration="22253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hazelcast$hazelcast_client.coverage" NAME="hazelcast-client Coverage Results" MODIFIED="1706998443043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>

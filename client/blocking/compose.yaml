@@ -1,0 +1,11 @@
+include:
+  - ../common-include.yaml
+
+services:
+  client:
+    extends:
+      file: ../common-extend.yaml
+      service: .client
+    build:
+      context: .
+      dockerfile: ../Dockerfile

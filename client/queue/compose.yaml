@@ -1,0 +1,27 @@
+services:
+  hazelcast:
+    extends:
+      file: ../common-include.yaml
+      service: hazelcast
+    environment:
+      HAZELCAST_CONFIG: hazelcast.yaml
+    volumes:
+      - ./hazelcast.yaml:/opt/hazelcast/hazelcast.yaml
+  management-center:
+    extends:
+      file: ../common-include.yaml
+      service: management-center
+  consumer:
+    extends:
+      file: ../common-extend.yaml
+      service: .client
+    build:
+      context: ./consumer/
+      dockerfile: ../../Dockerfile
+  producer:
+    extends:
+      file: ../common-extend.yaml
+      service: .client
+    build:
+      context: ./producer/
+      dockerfile: ../../Dockerfile
